@@ -1,5 +1,6 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
+import Terminal from "../components/Terminal";
 
 export default function Home() {
   return (
@@ -10,33 +11,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to{" "}
-          <a
-            href="https://github.com/filippo-fonseca/next-ts-template"
-            target="_blank"
-          >
-            Next.js with TypeScript!
-          </a>
-        </h1>
-
-        <p className={styles.description}>
-          Get started by editing{" "}
-          <code className={styles.code}>pages/index.tsx</code> and the
-          <code className={styles.code}>package.json</code> to change your
-          project info.
-        </p>
-
-        <p>
-          See changes to be made? Submit an issue or pull request on{" "}
-          <a
-            className={styles.personalLink}
-            href="https://github.com/filippo-fonseca/next-ts-template"
-            target="_blank"
-          >
-            GitHub.
-          </a>
-        </p>
+        <Terminal />
       </main>
 
       <footer className={styles.footer}>
