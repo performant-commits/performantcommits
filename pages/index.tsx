@@ -11,6 +11,11 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <h1 className={styles.title}>⚡️ Performant Commits</h1>
+        <p className={styles.description}>
+          A sleeker, more performant way of writing better, more efficient, and
+          understandable commit messages.
+        </p>
         <Terminal />
       </main>
 
@@ -20,9 +25,9 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This template is created and maintained with ❤️ by Filippo Fonseca.
+          Created and maintained with ❤️ by Filippo Fonseca.
           <img
-            src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg"
+            src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg"
             alt="GitHub Logo"
             className={styles.logo}
           />

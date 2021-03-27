@@ -23,6 +23,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  color: white;
 }
 
 .footer img {
@@ -56,6 +57,7 @@
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
+  color: white;
 }
 
 .title,
@@ -64,8 +66,9 @@
 }
 
 .description {
-  line-height: 1.5;
+  line-height: 1;
   font-size: 1.5rem;
+  color: white;
 }
 
 .code {
@@ -78,7 +81,7 @@
 }
 
 .logo {
-  height: 1em;
+  height: 1.5em;
 }
 
 @media (max-width: 600px) {
