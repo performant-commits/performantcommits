@@ -6,7 +6,16 @@
  
  # Usage
  
- Learn more about how to use and implement Performant Commits into your workflow today **[here**](https://github.com/performant-commits/performantcommits/blob/main/docs/USAGE.md).
+ **Snapshot**
+ 
+ A sample commit using the *Performant Commits* specification.
+ 
+ ```
+ # $ ft[core/parser] => 💎 Implement basic parser logic | FNTD | #27 
+ ```
+ 
+ Learn more about how to use and implement Performant Commits into your workflow today [**here**](https://github.com/performant-commits/performantcommits/blob/main/docs/USAGE.md).
+ 
  
  ## Contributing
  
