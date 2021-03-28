@@ -19,7 +19,7 @@
  
  ## Contributing
  
- Pull requests, issues, and contributions are welcome (*just make sure to use Performant Commits qwhen commiting, haha :))! An inclusive and complete contribution guide is on the way and will be available shortly.
+ Pull requests, issues, and contributions are welcome (*just make sure to use Performant Commits when commiting, haha :))! An inclusive and complete contribution guide is on the way and will be available shortly.
  
  Created and maintained with ❤️ by [**@FilippoFonseca**](https://twitter.com/FilippoFonseca) and PC's contributors.
  
