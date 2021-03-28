@@ -43,3 +43,5 @@ $ rfct[lib/searchEngine] => 📖 Destructure source objects | BCKN
 $ deps[packages] => 🧪 Update to latest version of DefinitelyTyped
 ```
 `NOTE:` Some properties are optional and are therefore missing. In addition, some present in these examples can be removed from the commit messages if needed/preferred.
+
+More to come soon. :)
