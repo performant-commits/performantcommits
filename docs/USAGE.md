@@ -11,7 +11,7 @@ The following is the standard Performant Commit message structure:
 Used during most occasions (or at least ones in which convention is wanted to be followed to its fullest.
 
 ```
-$ type[primary scope/secondary scope] => ~emoji~ Description | Stack | FTD-12
+$ type[primary scope/secondary scope] => ~emoji~ Description | Stack | #12
 ```
 
 **Practical**
@@ -33,7 +33,7 @@ $ type => ~emoji~ Description
 Examples of Performant Commits in action:
 
 ```   
-$ ft[core/parser] => ⚡️ Implement basic parser logic | FNTD
+$ ft[core/parser] => ⚡️ Implement basic parser logic | FNTD | #27 
 ```
 
 ```
@@ -42,6 +42,15 @@ $ rfct[lib/searchEngine] => 📖 Destructure source objects | BCKN
 ```
 $ deps[packages] => 🧪 Update to latest version of DefinitelyTyped
 ```
+
+```
+$ docs[general/README] => 💎 Update README
+```
+
+```
+rfct => 🎙 Audio tonality
+```
+
 `NOTE:` Some properties are optional and are therefore missing. In addition, some present in these examples can be removed from the commit messages if needed/preferred.
 
 More to come soon. :)
