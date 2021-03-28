@@ -7,7 +7,7 @@ const getTypingDuration = (): number => 80 + 80 * (Math.random() - 0.5);
 
 const Line = ({ text, noPrompt = false, noCaret = false }) => (
   <>
-    {!noPrompt && <span>▲ ~ </span>}
+    {!noPrompt && <span>~ </span>}
     {text}
     {!noCaret && <span className={styles.caret} />}
   </>
