@@ -11,7 +11,7 @@ The following is the standard Performant Commit message structure:
 Used during most occasions (or at least ones in which convention is wanted to be followed to its fullest.
 
 ```
-$ type[primary scope/secondary scope] => ~emoji~ Description | Stack
+$ type[primary scope/secondary scope] => ~emoji~ Description | Stack | FTD-12
 ```
 
 **Practical**
@@ -19,7 +19,7 @@ $ type[primary scope/secondary scope] => ~emoji~ Description | Stack
 Used during most situations for enhanced practicality and balance between convention and rapidness.
 
 ```
-$ type[scope] => ~emoji~ Description
+$ type[primary scope/secondary scope] => ~emoji~ Description
 ```
 
 **Simple (Fast)**
