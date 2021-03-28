@@ -48,7 +48,7 @@ $ docs[general/README] => 💎 Update README
 ```
 
 ```
-rfct => 🎙 Audio tonality
+$ rfct => 🎙 Audio tonality
 ```
 
 `NOTE:` Some properties are optional and are therefore missing. In addition, some present in these examples can be removed from the commit messages if needed/preferred.
