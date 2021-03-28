@@ -6,9 +6,30 @@ In the future, we anticipate the community will come up with innovative addition
 
 The following is the standard Performant Commit message structure:
 
+**Standard (Full)**
+
+Used during most occasions (or at least ones in which convention is wanted to be followed to its fullest.
+
 ```
 $ type[primary scope/secondary scope] => ~emoji~ Description | Stack
 ```
+
+**Practical**
+
+Used during most situations for enhanced practicality and balance between convention and rapidness.
+
+```
+$ type[scope] => ~emoji~ Description
+```
+
+**Simple (Fast)**
+
+Used for quick commits (usually when pushing minor changes or in a rush).
+
+```
+$ type => ~emoji~ Description
+```
+
 Examples of Performant Commits in action:
 
 ```   
