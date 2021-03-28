@@ -23,7 +23,7 @@ export default function Home() {
         <div style={{ display: "flex" }}>
           <a
             target="_blank"
-            href="https://github.com/performant-commits/performantcommits"
+            href="https://github.com/performant-commits/performantcommits/blob/main/docs/USAGE.md"
           >
             <Button
               type="success"
