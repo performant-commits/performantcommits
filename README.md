@@ -4,6 +4,8 @@
  
  This project is quite new. More details, instructions, and content to come.
  
+ Labding page built and maintained in React, TypeScript, and NextJS. Deployed on Vercel.
+ 
  # Usage
  
  **Snapshot**
