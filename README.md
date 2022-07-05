@@ -2,7 +2,7 @@
 
  > A sleeker, more performant way of writing better, more efficient, and understandable commit messages for teams and individuals.
  
- This project is quite new. More details, instructions, and content to come.
+More details, instructions, and content to come - just a commit specification I developed for my friends and I and wanted to share its details on GitHub.
  
  The landing page is built and maintained in React, TypeScript, and NextJS. Deployed on Vercel.
  
